@@ -1,0 +1,5 @@
+To run:
+
+nvcc --default-stream per-thread ./program.cu -o program
+./program
+
